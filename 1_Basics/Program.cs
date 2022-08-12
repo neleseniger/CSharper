@@ -17,7 +17,6 @@
 //string ExampleString = "Example 123";
 #endregion
 
-asdhadh
 #region Variables
 Console.WriteLine("What is your name?");
 
@@ -28,7 +27,7 @@ string myString = "This is how to define a string variable!";
 myString = Console.ReadLine();
 
 //Writing it back to the console
-Console.WriteLine("Aaah, welcome " + myString + ", nice to meet you!");
+Console.WriteLine("Aaah, welcome " + myString + ", lovely to meet you!");
 #endregion
 
 #region Data types
